@@ -17,3 +17,5 @@ Train <- df[partition, ]
 Test <- df[-partition, ]
 
 sample <- Train[1:20,]
+
+#This is the end of my code
